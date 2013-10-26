@@ -2,6 +2,7 @@ JSON mod for SAML
 =============
 
 SAML Module for authing against a JSON list of users
+
 Note: Probably shouldnt exactly be considered the most secure SAML mod ever.
 
 
