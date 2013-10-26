@@ -1,4 +1,4 @@
-JSON mod for SimpleSAMLPHP
+SimpleSAMLPHP-JSON
 =============
 
 SimpleSAMLPHP Module for authing against a JSON list of users
